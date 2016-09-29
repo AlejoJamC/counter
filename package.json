@@ -1,0 +1,25 @@
+{
+  "name": "counter",
+  "version": "0.1.0",
+  "description": "Simple web-app to create a list of things and count the amount of it (Firebase + AngularJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alejojamc@github.com/AlejoJamC/counter.git"
+  },
+  "keywords": [
+    "angularjs",
+    "firebase",
+    "nodejs",
+    "node"
+  ],
+  "author": "@AlejoJamC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejoJamC/counter/issues"
+  },
+  "homepage": "https://github.com/AlejoJamC/counter#readme"
+}
